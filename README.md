@@ -11,3 +11,6 @@ When working with earth system processes, our goal is to be **GRRIEn**:
 4) **I**terpreted: based on your domain expertise, are model parameters/weights physically plausible?
 
 For supervised **En**vironmental learning. These exercises are intended to help you produce documented, version-controlled workflows for acquisition, processing, and GRREIn statistical analysis, and visualization of environmental data from command-line interfaces.
+
+Did these resources help your research? Spread the word! Preferred citation: 
+Carter, E., Hultquist, C., & Wen, T. (2023). GRRIEn analysis: a data science cheat sheet for earth scientists learning from global earth observations. Artificial Intelligence for the Earth Systems, 2(2), 220065.
