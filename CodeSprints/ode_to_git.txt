@@ -4,8 +4,13 @@ so later I may be less confused.
 But what is the value of such a quest
 if here and now I stand abused?
 
+<<<<<<< HEAD
 Oh git!
 I'm getting there,
 I'm walking blindly along
 but someday, there is hope, 
 that one day I won't use git wrong
+=======
+hello git!
+it is a joy to use you now
+>>>>>>> upstream/main
