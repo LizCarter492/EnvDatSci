@@ -9,5 +9,9 @@ Don't forget, you are created to make life easier
 =======
 
 hello git!
+<<<<<<< HEAD
+it is a joy to use you now
+>>>>>>> upstream/main
+=======
 it is a joy to use you now
 >>>>>>> upstream/main
