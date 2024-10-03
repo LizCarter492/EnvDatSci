@@ -1,0 +1,23 @@
+Collecting mapclassify
+  Downloading mapclassify-2.8.1-py3-none-any.whl.metadata (2.8 kB)
+Requirement already satisfied: networkx>=2.7 in /Users/liyangqin/ear609/.venv/lib/python3.12/site-packages (from mapclassify) (3.3)
+Requirement already satisfied: numpy>=1.23 in /Users/liyangqin/ear609/.venv/lib/python3.12/site-packages (from mapclassify) (2.1.1)
+Requirement already satisfied: pandas!=1.5.0,>=1.4 in /Users/liyangqin/ear609/.venv/lib/python3.12/site-packages (from mapclassify) (2.2.3)
+Collecting scikit-learn>=1.0 (from mapclassify)
+  Downloading scikit_learn-1.5.2-cp312-cp312-macosx_12_0_arm64.whl.metadata (13 kB)
+Requirement already satisfied: scipy>=1.8 in /Users/liyangqin/ear609/.venv/lib/python3.12/site-packages (from mapclassify) (1.14.1)
+Requirement already satisfied: python-dateutil>=2.8.2 in /Users/liyangqin/ear609/.venv/lib/python3.12/site-packages (from pandas!=1.5.0,>=1.4->mapclassify) (2.9.0.post0)
+Requirement already satisfied: pytz>=2020.1 in /Users/liyangqin/ear609/.venv/lib/python3.12/site-packages (from pandas!=1.5.0,>=1.4->mapclassify) (2024.2)
+Requirement already satisfied: tzdata>=2022.7 in /Users/liyangqin/ear609/.venv/lib/python3.12/site-packages (from pandas!=1.5.0,>=1.4->mapclassify) (2024.2)
+Collecting joblib>=1.2.0 (from scikit-learn>=1.0->mapclassify)
+  Using cached joblib-1.4.2-py3-none-any.whl.metadata (5.4 kB)
+Collecting threadpoolctl>=3.1.0 (from scikit-learn>=1.0->mapclassify)
+  Using cached threadpoolctl-3.5.0-py3-none-any.whl.metadata (13 kB)
+Requirement already satisfied: six>=1.5 in /Users/liyangqin/ear609/.venv/lib/python3.12/site-packages (from python-dateutil>=2.8.2->pandas!=1.5.0,>=1.4->mapclassify) (1.16.0)
+Downloading mapclassify-2.8.1-py3-none-any.whl (59 kB)
+Downloading scikit_learn-1.5.2-cp312-cp312-macosx_12_0_arm64.whl (11.0 MB)
+[?25l   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/11.0 MB[0m [31m?[0m eta [36m-:--:--[0m[2K   [91m━━━━━━━━━━━━━━━━━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━[0m [32m5.0/11.0 MB[0m [31m29.9 MB/s[0m eta [36m0:00:01[0m[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m11.0/11.0 MB[0m [31m37.9 MB/s[0m eta [36m0:00:00[0m
+[?25hUsing cached joblib-1.4.2-py3-none-any.whl (301 kB)
+Using cached threadpoolctl-3.5.0-py3-none-any.whl (18 kB)
+Installing collected packages: threadpoolctl, joblib, scikit-learn, mapclassify
+Successfully installed joblib-1.4.2 mapclassify-2.8.1 scikit-learn-1.5.2 threadpoolctl-3.5.0
