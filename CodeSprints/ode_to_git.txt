@@ -4,5 +4,12 @@ so later I may be less confused.
 But what is the value of such a quest
 if here and now I stand abused?
 
+<<<<<<< HEAD
+Coding is tough, each bug a delay,
+Endless debugging, night turns to day.
+GitHub is hard, but growth comes in strain,
+Coding is hard, yet we learn from the pain.
+=======
 hello git!
 it is a joy to use you now
+>>>>>>> upstream/main
