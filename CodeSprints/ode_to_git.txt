@@ -6,3 +6,7 @@ if here and now I stand abused?
 
 hello git!
 it is a joy to use you now
+
+hello git!
+I am Taposh Mollick.
+It is a joy to use in Jupyter.
