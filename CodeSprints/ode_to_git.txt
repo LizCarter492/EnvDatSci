@@ -3,6 +3,15 @@ You confuse me now,
 so later I may be less confused.
 But what is the value of such a quest
 if here and now I stand abused?
+<<<<<<< HEAD
+I treated you well, but you gave me error.
+Don't forget, you are created to make life easier
+=======
 
 hello git!
+<<<<<<< HEAD
 it is a joy to use you now
+>>>>>>> upstream/main
+=======
+it is a joy to use you now
+>>>>>>> upstream/main
