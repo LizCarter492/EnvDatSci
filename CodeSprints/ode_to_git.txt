@@ -4,5 +4,12 @@ so later I may be less confused.
 But what is the value of such a quest
 if here and now I stand abused?
 
+<<<<<<< HEAD
+Hoping it will work this time
+Here I stand, trying and trying again
+But I believe now is the time
+That all my codes work again
+=======
 hello git!
 it is a joy to use you now
+>>>>>>> upstream/main
